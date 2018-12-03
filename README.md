@@ -15,7 +15,7 @@ Which requires can_common found here https://github.com/collin80/can_common.
 Note: I had to make one small change to get it to compile.  I have since forgotten what that change was.  Email me if knowing this is important to you and I will try to chase it down.
 
 # Status
-This is currently a work in progress.  It works with the exception of needing two power cycles to get it to connect.  I suspect I'm not responding correctly to some request in the initial negotiation with the ODBII reader.  I can't imagine why it will connect reliably after a power cycle, but it does. 
+This is currently a work in progress.  It works with the exception of needing two power cycles to get it to connect to the ODBII reader.  The reader reliably connects to my Honda in one go.   I suspect I'm not responding correctly to some request in the initial negotiation with the ODBII reader.  I can't imagine why it will connect reliably after a power cycle, but it does. 
 
 Our schedules haven't since crossed in a way that I can try to fix that, or finish implementing a few other niceties.  
 
